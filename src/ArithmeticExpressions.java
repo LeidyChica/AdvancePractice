@@ -1,0 +1,14 @@
+
+public class ArithmeticExpressions {
+
+	public static void main(String[] args) {
+	
+		double friends = 10;
+		
+		friends = friends / 3;
+		
+		System.out.print(friends);
+
+	}
+
+}
